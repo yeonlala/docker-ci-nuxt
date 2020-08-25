@@ -1,3 +1,3 @@
 <template>
-    <h1>hello nuxt master!</h1>
+    <h1>hello nuxt dev !</h1>
 </template>
